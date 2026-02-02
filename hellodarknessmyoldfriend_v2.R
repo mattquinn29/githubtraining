@@ -1,0 +1,6 @@
+print("hello darkness my old friend")
+print("coming out of my cage and I've been doing just fine")
+print("JEALOUSY TURNING LOVE SICK LULLABY")
+print ("NOT ENJOYING YOUR ALIBI")
+print ("BUT IT'S JUST THE PRICE I PAY, DESTINY IS CALLING ME")
+prit ("OPEN UP MY EAGER EYES")
